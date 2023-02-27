@@ -12,3 +12,13 @@
 ## Primeiro Kanban:
   
 ![image-01](https://user-images.githubusercontent.com/100159300/221558185-40635911-eaff-42ba-9f62-6b5109084a96.png)
+
+## Kanban finalizado:
+![image](https://user-images.githubusercontent.com/100361795/221560612-04d642f5-6d01-4c72-bc52-d3ff12c61f1c.png)
+
+## Instalação
+
+### Instale o tk
+
+    pip install tk
+    
